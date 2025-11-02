@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-astra
+python-dotenv
+faiss-cpu
+pypdf
+sentence-transformers
+requests
+tiktoken
+openai
